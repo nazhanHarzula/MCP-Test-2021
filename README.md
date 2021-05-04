@@ -13,3 +13,6 @@ divided by 1 is 4 (x)
 of strings containing all strings that has length x.
 for example : word = "souvenir loud four lost", x = 4, your output should be ["loud", "four",
 "lost"] because those strings has length of 4
+
+For screenshot test : screenshot_test.png
+Trial Code (Compiler Online) : https://www.programiz.com/python-programming/online-compiler/
